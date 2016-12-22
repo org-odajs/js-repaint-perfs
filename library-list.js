@@ -64,7 +64,8 @@
     { type: 'optimized', id: 'simulacra', url: './simulacra/opt.html', label: 'DBMON Simulacra' },
     { type: 'optimized', id: 'dio', url: './dio/index.html', label: 'DBMON DIO.js' },
     { type: 'optimized', id: 'redom', url: './redom/index.html', label: 'DBMON RE:DOM' },
-    { type: 'native', id: 'basic-virtual-dom', url: './basic-virtual-dom/index.html', label: 'BASIC VIRTURL DOM' }
+    { type: 'native', id: 'basic-virtual-dom', url: './basic-virtual-dom/index.html', label: 'BASIC VIRTURL DOM' },
+    { type: 'native', id: 'cakejs', url: './cakejs/index.html', label: 'CakeJS 2' }
   ];
 
   function Library() {
